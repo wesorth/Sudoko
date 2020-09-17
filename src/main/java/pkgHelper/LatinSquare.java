@@ -1,5 +1,5 @@
 package pkgHelper;
-
+//change
 public class LatinSquare {
 	private int[][] LatinSquare;
 	
